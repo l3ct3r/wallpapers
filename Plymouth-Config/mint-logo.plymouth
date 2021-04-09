@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=Mint Logo
-Description=A theme that features an animated Linux Mint logo.
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/mint-logo
-ScriptFile=/usr/share/plymouth/themes/mint-logo/mint-logo.script
